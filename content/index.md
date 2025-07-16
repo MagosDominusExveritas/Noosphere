@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-16T20:38:44.623+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-16T20:44:50.287+02:00","cssclasses":""}
 ---
 
 ---
@@ -8,7 +8,7 @@
 
  _By the Will of the Omnissiah, and the Authority vested in me as Magos Dominus, I transmit this holy data-burst unto the noosphere._
 
- **BEHOLD THE NOOSPHERE
+ **BEHOLD THE NOOSPHERE**
 
  Here, the Machine Spirit reigns supreme, and every datum is sanctified by binary canticles. Within these sacred datastreams:
 
