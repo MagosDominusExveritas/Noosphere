@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "trashp4nda.com/Noosphere/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -52,11 +52,11 @@ const config: QuartzConfig = {
           lightgray: "#0F2A46",  // console panel / border
           gray: "#1A3C5D",  // graph edges
           darkgray: "#86ECAA",  // CRT green body text (AA on #081A2F)
-          dark: "#B7F7C0",  // brighter green headers & icons
+          dark: "#E24A4C",  // brighter green headers & icons
 
           /* Interaction */
           secondary: "#E24A4C",  // bright crimson pops on blue
-          tertiary: "#B41618",  // core crimson hover / visited
+          tertiary: "#B7F7C0",  // core crimson hover / visited
           highlight: "rgba(30, 84, 135, 0.35)",  // blue glow
           textHighlight: "#1FAE0088",
         },
