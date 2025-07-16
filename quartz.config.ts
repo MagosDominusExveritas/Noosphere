@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Noosphere",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,34 +23,46 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Share Tech Mono",
+        body: "Share Tech Mono",
         code: "IBM Plex Mono",
       },
+      // quartz.config.ts  → theme.colors
       colors: {
+        /* ── TRUE LIGHT MODE ── */
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          /* Surfaces */
+          light: "#E9F1FF",  // pale dataslate blue – page background
+          lightgray: "#CAD6EA",  // card / border
+          gray: "#8EA1B8",  // graph edges, heavier borders
+          darkgray: "#0F232F",  // body text (nearly-navy for 7:1 contrast)
+          dark: "#00273E",  // headers & icons
+
+          /* Interaction */
+          secondary: "#B41618",  // core crimson links / active node
+          tertiary: "#E24A4C",  // oxide red hover / visited
+          highlight: "rgba(0, 85, 160, 0.15)",   // soft blue halo on links / code
+          textHighlight: "#1FAE0088",            // neon-green ==highlight==
         },
+
+        /* ── DEEP-BLUE COGITATOR (dark mode) ── */
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          /* Surfaces */
+          light: "#081A2F",  // deep void blue page background
+          lightgray: "#0F2A46",  // console panel / border
+          gray: "#1A3C5D",  // graph edges
+          darkgray: "#86ECAA",  // CRT green body text (AA on #081A2F)
+          dark: "#B7F7C0",  // brighter green headers & icons
+
+          /* Interaction */
+          secondary: "#E24A4C",  // bright crimson pops on blue
+          tertiary: "#B41618",  // core crimson hover / visited
+          highlight: "rgba(30, 84, 135, 0.35)",  // blue glow
+          textHighlight: "#1FAE0088",
         },
       },
+
+
     },
   },
   plugins: {
