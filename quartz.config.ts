@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Share Tech Mono",
         body: "Share Tech Mono",
-        code: "IBM Plex Mono",
+        code: "Share Tech Mono",
       },
       // quartz.config.ts  → theme.colors
       colors: {
