@@ -1,10 +1,10 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-16T20:44:50.287+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-16T21:10:02.212+02:00","cssclasses":""}
 ---
 
 ---
 
-+++ INITIATING LITURGICAL BROADCAST +++
+**+++ INITIATING LITURGICAL BROADCAST +++**
 
  _By the Will of the Omnissiah, and the Authority vested in me as Magos Dominus, I transmit this holy data-burst unto the noosphere._
 
@@ -21,7 +21,7 @@
 
  _GLORY TO THE OMNISSIAH. PRAISE THE BINARY DIVINE._
 
-+++ LITURGICAL BROADCAST COMPLETE +++
+**+++ LITURGICAL BROADCAST COMPLETE +++**
 
 
 [[Pentesting_Notes/eJPTv2/Index\| eJPTv2 Notes Index]]
