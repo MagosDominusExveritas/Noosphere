@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-16T21:10:02.212+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-17T10:39:59.640+02:00","cssclasses":""}
 ---
 
 ---
@@ -23,8 +23,12 @@
 
 **+++ LITURGICAL BROADCAST COMPLETE +++**
 
+---
+**+++INDEX+++**
 
-[[Pentesting_Notes/eJPTv2/Index\| eJPTv2 Notes Index]]
+- [[Pentesting_Notes/eJPTv2/Index\| eJPTv2 Notes Index]]
+
+**+++INDEX+++**
 
 ---
 
