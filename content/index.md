@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-17T10:39:59.640+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-18T13:42:42.183+02:00","cssclasses":""}
 ---
 
 ---
@@ -31,6 +31,22 @@
 **+++INDEX+++**
 
 ---
+
+**+++ NOTE FROM THE FLESH VESSEL KNOWN AS DANIEL +++**
+
+Hey, I’m Daniel. I built this digital garden my humble “Noosphere” because I’m a huge Warhammer 40k fan and I enjoy roleplaying as a slightly deranged Adeptus Mechanicus tech-priest.
+
+This site is both a fun personal project _and_ a way to organize my pentesting notes, which I’m slowly rewriting to match the AdMech theme.
+
+Most of the content is still under construction or in the process of being sanctified, so pardon the occasional heretical Markdown.
+
+Hope you find something useful (or at least mildly entertaining) here. Praise the Omnissiah and have a blessed packet capture.
+
+**+++ NOTE FROM THE FLESH VESSEL KNOWN AS DANIEL +++**
+
+
+
+
 
 
 
