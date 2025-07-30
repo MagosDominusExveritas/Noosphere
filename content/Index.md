@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-30T11:01:05.827+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-30T12:14:59.092+02:00","cssclasses":""}
 ---
 
 ---
@@ -29,6 +29,7 @@
 - [[Pentesting_Notes/eJPTv2/Index\| eJPTv2 Notes Index]]
 - [[OSINT Notes/OSINT Index]]
 - [[Projects/Projects Index]]
+- More TODO
 
 **+++INDEX+++**
 
