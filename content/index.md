@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-30T12:14:59.092+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-30T14:30:15.509+02:00","cssclasses":""}
 ---
 
 ---
@@ -39,7 +39,7 @@
 
 Hey, I’m Daniel. I built this digital garden my humble “Noosphere” because I’m a huge Warhammer 40k fan and I enjoy roleplaying as a slightly deranged Adeptus Mechanicus tech-priest.
 
-This site is both a fun personal project _and_ a way to organize my pentesting notes, which I’m slowly rewriting to match the AdMech theme.
+This site is both a fun personal project _and_ a way to organize my notes, which I’m slowly rewriting to match the AdMech theme.
 
 Most of the content is still under construction or in the process of being sanctified, so pardon the occasional heretical Markdown.
 
