@@ -1,6 +1,18 @@
 ---
-{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-07-30T14:30:15.509+02:00","cssclasses":""}
+{"publish":true,"title":"Cogitarium Prime","created":"2025-07-15T13:53:43.922+02:00","modified":"2025-08-18T10:47:19.318+02:00","cssclasses":""}
 ---
+
+**+++ NOTE FROM DANIEL +++**
+
+Hey, I’m Daniel. I built this digital garden my humble “Noosphere” because I’m a huge Warhammer 40k fan and I enjoy roleplaying as a slightly deranged Adeptus Mechanicus tech-priest.
+
+This site is both a fun personal project _and_ a way to organize my notes.
+
+Most of the content is still under construction or in the process of being sanctified, so pardon the occasional heretical Markdown.
+
+Hope you find something useful (or at least mildly entertaining) here. Praise the Omnissiah and have a blessed packet capture.
+
+**+++ NOTE FROM DANIEL +++**
 
 ---
 
@@ -26,7 +38,7 @@
 ---
 **+++INDEX+++**
 
-- [[Pentesting_Notes/eJPTv2/Index\| eJPTv2 Notes Index]]
+- [[Pentesting_Notes/Pentesting Index]]
 - [[OSINT Notes/OSINT Index]]
 - [[Projects/Projects Index]]
 - More TODO
@@ -35,17 +47,7 @@
 
 ---
 
-**+++ NOTE FROM THE FLESH VESSEL KNOWN AS DANIEL +++**
 
-Hey, I’m Daniel. I built this digital garden my humble “Noosphere” because I’m a huge Warhammer 40k fan and I enjoy roleplaying as a slightly deranged Adeptus Mechanicus tech-priest.
-
-This site is both a fun personal project _and_ a way to organize my notes, which I’m slowly rewriting to match the AdMech theme.
-
-Most of the content is still under construction or in the process of being sanctified, so pardon the occasional heretical Markdown.
-
-Hope you find something useful (or at least mildly entertaining) here. Praise the Omnissiah and have a blessed packet capture.
-
-**+++ NOTE FROM THE FLESH VESSEL KNOWN AS DANIEL +++**
 
 
 
